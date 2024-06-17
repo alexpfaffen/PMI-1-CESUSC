@@ -1,8 +1,8 @@
 ---
 
-## Service Control
+## Service Control:
 
-🙁 Problema:
+🙁 Problema
 
 - Atrasos na entrega e no cumprimento dos prazos acordados com os clientes.
 - Perda de confiança dos clientes na oficina e possível migração para a concorrência.
@@ -14,7 +14,7 @@
 - Perda de oportunidades de venda de serviços adicionais durante a manutenção dos veículos.
 - Riscos legais e responsabilização da oficina em casos de danos, roubos ou extravios de veículos esquecidos
 
-🙂 Nicho:
+🙂 Nicho
 
 - Oficinas mecânicas
 
@@ -22,7 +22,7 @@
 
 - Manutenção de equipamentos
 
-🎁 Proposta de Valor:
+🎁 Proposta de Valor
 
 - Gerenciamneto dos veiculos em manutenção, garantindo agilidade da informação, transparência em tempo real.
 
@@ -32,7 +32,7 @@
 
 - Buscamos oferecer aos nossos clientes uma experiência de qualidade e valor agregado.
 
-🧑‍💻👩‍💻 Equipe: Alex Pfaffenzeller
+🧑‍💻👩‍💻 Equipe  Alex Pfaffenzeller
 
 ## 🛠️ Recursos/Tecnologias Utilizados
 
@@ -40,18 +40,18 @@
 
 🔗 [Url github]()
 
-:page_with_curl: [Business Model Canvas]()
+:page_with_curl [Business Model Canvas]()
 
-🛬 url landpage:
+🛬 url landpage
 
-🤝 url Modelo Negócio (imagem):
+🤝 url Modelo Negócio (imagem)
 
 ## 🗓️ url Product Backlog:
 
 📲 PMI II
 
-⌨️ url Protótipo (Figma):
-📝 url Modelagem Sistema:
+⌨️ url Protótipo (Figma)
+📝 url Modelagem Sistema
 
 ---
 
