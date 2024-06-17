@@ -34,7 +34,7 @@
 
 🧑‍💻👩‍💻 Equipe: Alex Pfaffenzeller
 
-## 🛠️ Recursos/Tecnologias Utilizados:
+## 🛠️ Recursos/Tecnologias Utilizados
 
 💡 PMI I
 
