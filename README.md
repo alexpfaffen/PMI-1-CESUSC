@@ -1,6 +1,6 @@
 ---
 
-## Service Control:
+## Service Control
 
 🙁 Problema
 
