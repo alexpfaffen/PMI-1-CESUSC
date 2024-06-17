@@ -40,7 +40,8 @@
 
 🔗 [Url github]()
 
-:page_with_curl: [Business Model Canvas](<https://www.figma.com/board/alZFK75JiEgFY4iI9xXKkW/Business-Model-Canvas-%E2%80%94-(PT-BR)-(Service-Control)?node-id=0-1&t=CquhCR9izQeEeigH-0>)
+:page_with_curl: [Business Model Canvas]
+(<https://www.figma.com/board/alZFK75JiEgFY4iI9xXKkW/Business-Model-Canvas-%E2%80%94-(PT-BR)-(Service-Control)?node-id=0-1&t=CquhCR9izQeEeigH-0>)
 
 🛬 url landpage:
 
