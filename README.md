@@ -40,7 +40,7 @@
 
 🔗 [Url github]()
 
-:page_with_curl [Business Model Canvas]()
+:page_with_curl: [Business Model Canvas]()
 
 🛬 url landpage
 
