@@ -32,7 +32,7 @@
 
 - Buscamos oferecer aos nossos clientes uma experiência de qualidade e valor agregado.
 
-🧑‍💻👩‍💻 Equipe  Alex Pfaffenzeller
+🧑‍💻👩‍💻 Equipe -  Alex Pfaffenzeller
 
 ## 🛠️ Recursos/Tecnologias Utilizados
 
